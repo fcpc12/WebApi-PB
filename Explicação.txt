@@ -1,0 +1,25 @@
+Nome: Fernanda Cristina Peixoto Coelho
+
+Primeiramente, comecei adicionando pacotes que precisei para conseguir fazer o código base rodar.
+
+Em seguida, criei a pasta Model e, dentro dela, a Interessada.cs, meu objeto. Atribui então seus atributos, nome e email, e as propriedades, e deixei o "set" como privado em ambas pois a Raquel explicou que dessa maneira não tem como alterar os dados lidos através do código, que é o ideal.
+
+Fiz o construtor e adicionei o email e o nome, para os quais determinei os seguintes comportamentos:
+
+* O email deveria ter @ e não poderia ter espaço
+*O nome deveria ter espaço, configurando nome e sobrenome (nome completo)
+
+Na sequência comecei a pensar em como salvar os dados, e tive muita dificuldade nessa parte. Cheguei a baixar o microsoft sql server e estava tentando usar banco de dados, cheguei a criar dentro de Model a "InteressadaContext.cs", mas depois foi dada a instrução para usar memória e então descartei a ideia e apaguei a "InteressadaContext.cs".
+
+As dúvidas eram muitas, tentei trabalhar com MemoryStream, arquivo txt e listas, não achando nenhuma muito adequada para as necessidades com orientação a objetos, pois não compreendi completamente cada uma delas, nunca havia usado C# e nem trabalhado com orientação a objetos... pensei também se teria como usar o Singleton, pesquisei sobre e não consegui encaixar na aplicação também.
+
+Dessa forma, sem mais tempo a dispor e sem encontrar saídas, trabalhei sem implementar realmente e sem salvar esses dados, o que me deixou muito frustrada pois queria ver funcionando e dediquei muito tempo pra isso. 
+
+Pensei em deixar de lado, pois mesmo as coisas simples estavam difíceis sem conhecimento da linguagem. Mas então decidi colocar as ideias, escrever o que conseguisse com as notações em C# e o restante só comentar o que pensei para a lógica. 
+
+Foi o que fiz. Existem alguns comentários no código marcando coisas que cogitei e deixei de lado, e deixei como forma de mostrar partes do meu raciocínio. Também deixei comentários explicando o que tentei passar com o código ou o que tentaria se tivesse conhecimento suficiente da lingugagem.
+
+Comentário pessoal:
+Eu tive bastante dificuldade mesmo, mas pesquisei bastante, aprendi muita coisa e achei uma experiência ótima e extremamente enriquecedora. O case ficou muito longe do que eu gostaria e esperava entragar, mas foi o que consegui. Gostaria de ter tido mais tempo, mas seguirei com mais motivação para aprender sobre a área que achei tão incrível. Agradeço por todo o ensisamento transmitido.
+ 
+
